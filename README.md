@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Komal 👋
 
-<!--
-**komaldevliya2624/komaldevliya2624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+📊 Aspiring Data Analyst / Data Scientist  
+💻 Skills: Python, SQL, Pandas, NumPy, Power BI  
+🧠 Practicing DSA & problem solving   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a BCA student learning programming, data analytics, and data science.  
+I use GitHub to store my practice work, projects, and track my learning journey.
+
+---
+
+## What you'll find here
+
+### 🧩 DSA Practice
+- Array, String, Recursion, Sorting, Searching problems  
+- Logic building and problem solving codes  
+
+### 📊 Data Science & Data Analytics
+- Data cleaning and preprocessing (Pandas, NumPy)  
+- Exploratory Data Analysis (EDA)  
+- Mini data science projects  
+
+### 💻 Python Practice
+- Core Python programs  
+- Functions, loops, strings, file handling  
+
+### 🚀 Projects
+- Mini Python projects  
+- Data analysis case studies  
+- College and self-learning projects  
+
+---
+
+## Current Goals
+- Become strong in problem solving & DSA  
+- Build real-world data science projects  
+- Crack placements  
+
+---
+
+Thanks for visiting my profile 🙂
+
